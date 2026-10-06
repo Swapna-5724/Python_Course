@@ -18,4 +18,3 @@ class ToyotaCar(Car):
 
 car1 = ToyotaCar("prius", "electric")
 print(car1.type)
-
